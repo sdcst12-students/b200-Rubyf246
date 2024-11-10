@@ -2,7 +2,7 @@
 
 Requirements
 
-You need to remember the following:
+You need to remember the following:                 
 * difference between a tuple and a list
 * how to access the member elements of a tuple and list
 * how to use a for loop with a tuple and list
